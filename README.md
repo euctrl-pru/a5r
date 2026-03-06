@@ -1,5 +1,6 @@
 THIS PACKAGE WAS AN EXPERIMENT AND IS NOW ARCHIVED.
-Please refer to <https://github.com/belian-earth/a5R> for the real thing!
+
+**Please refer to <https://github.com/belian-earth/a5R> for the real thing!**
 
 # a5r <img src="man/figures/logo.png" align="right" height="139" alt="" />
 
